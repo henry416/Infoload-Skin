@@ -1,7 +1,7 @@
-InfoLoad Rainmeter Skin
-Version 1.0
-Henry Chen
-henry416@github.com
+#InfoLoad Rainmeter Skin
+#Version 1.0
+#Henry Chen
+#henry416@github.com
 
 ------------------------------
 
