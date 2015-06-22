@@ -79,11 +79,11 @@ W=85
 H=6
 
 [HWiNFOGraphStyle]
-LineColor=255, 0, 0, 150
-LineColor2=255, 255, 0, 150
-LineColor3=0, 255, 0, 150
-LineColor4=0, 0, 255, 150
-LineColor5=255, 255, 255, 150
+LineColor=255, 0, 0, 200
+LineColor2=255, 255, 0, 200
+LineColor3=0, 255, 0, 200
+LineColor4=0, 0, 255, 200
+LineColor5=255, 255, 255, 200
 SolidColor=96, 96, 96, 96
 W=250
 H=50
